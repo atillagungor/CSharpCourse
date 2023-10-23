@@ -1,0 +1,14 @@
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\Tobeto\1A\CSharp\CSharpCourse\Conditionals\bin\Debug\net7.0\Conditionals.exe
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\Tobeto\1A\CSharp\CSharpCourse\Conditionals\bin\Debug\net7.0\Conditionals.deps.json
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\Tobeto\1A\CSharp\CSharpCourse\Conditionals\bin\Debug\net7.0\Conditionals.runtimeconfig.json
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\Tobeto\1A\CSharp\CSharpCourse\Conditionals\bin\Debug\net7.0\Conditionals.dll
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\Tobeto\1A\CSharp\CSharpCourse\Conditionals\bin\Debug\net7.0\Conditionals.pdb
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\Tobeto\1A\CSharp\CSharpCourse\Conditionals\obj\Debug\net7.0\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\Tobeto\1A\CSharp\CSharpCourse\Conditionals\obj\Debug\net7.0\Conditionals.AssemblyInfoInputs.cache
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\Tobeto\1A\CSharp\CSharpCourse\Conditionals\obj\Debug\net7.0\Conditionals.AssemblyInfo.cs
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\Tobeto\1A\CSharp\CSharpCourse\Conditionals\obj\Debug\net7.0\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\Tobeto\1A\CSharp\CSharpCourse\Conditionals\obj\Debug\net7.0\Conditionals.dll
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\Tobeto\1A\CSharp\CSharpCourse\Conditionals\obj\Debug\net7.0\refint\Conditionals.dll
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\Tobeto\1A\CSharp\CSharpCourse\Conditionals\obj\Debug\net7.0\Conditionals.pdb
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\Tobeto\1A\CSharp\CSharpCourse\Conditionals\obj\Debug\net7.0\Conditionals.genruntimeconfig.cache
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\Tobeto\1A\CSharp\CSharpCourse\Conditionals\obj\Debug\net7.0\ref\Conditionals.dll
