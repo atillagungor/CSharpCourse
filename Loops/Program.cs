@@ -39,9 +39,37 @@
 
 //FOREACH
 
-string[] students = new string[3] { "Engin", "Atilla", "Umut" };
-foreach (var student in students)
+//using System.Runtime.CompilerServices;
+
+//string[] students = new string[3] { "Engin", "Atilla", "Umut" };
+//foreach (var student in students)
+//{
+//    Console.WriteLine(student);
+//}
+//Console.ReadLine();
+
+if (IsPrimeNumber(7))
 {
-    Console.WriteLine(student);
+    Console.WriteLine("This is a prime number!");
 }
+else
+{
+    Console.WriteLine("This isn't a prime number!");
+}
+
 Console.ReadLine();
+
+static bool IsPrimeNumber(int number)
+{
+    bool result = true;
+    for (int i = 2; i < number-1; i++)
+    {
+        if (number % i == 0)
+        {
+            result = false;
+            i = number;
+        }
+    }
+    return result;
+}
+
