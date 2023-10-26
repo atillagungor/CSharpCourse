@@ -13,6 +13,20 @@ internal class Program
         productManager.Add();
         productManager.Update();
 
+        Customer customer = new Customer();
+        customer.FirstName = "Atilla";
+        customer.LastName = "Güngör";
+        customer.City = "İstanbul";
+
+        Customer customer1 = new Customer
+        {
+            Id = 1,
+            City = "İstanbul"
+        };
+
+        Console.WriteLine(customer.FirstName);
+
+
         Console.ReadLine();
     }
 }
